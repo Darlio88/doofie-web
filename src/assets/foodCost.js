@@ -1,0 +1,85 @@
+const bigOnBreakfast=[
+    {
+        catergory:'wonderful-waffles',
+        items:[
+{name:'belgian-waffle',price:19000},
+{name:'strawberry-banana-waffle',price:22000}
+        ]
+    },
+    {
+        catergory:'breakfast-combos',
+        items:[
+            {name:'loaded-chapati-combo',price:31000},
+            {name:'chicken-egg-wrap combo', price:31000},
+            {name:'breakfast-pancake-sampler',price:31000},
+            {name:'cheicken-salad-filled-croissant-combo',price:31000},
+            {name:'omelette-combo',price:31000},
+            {name:'grilled-chicken-eggs',price:31000}
+        ]
+    },
+    {
+        catergory:'ranger-breakfast',
+        items:[
+            {name:'kiddy-sampler-combo',price:21000},
+            {name:'kiddy-chapati-combo',price:21000},
+            {name:'kiddy-pancake',price:12000}
+        ]
+    },
+    {
+        catergory:'fluffy-pancakes',
+        items:[
+            {name:'original-buttermilk-pancake',price:18000},
+            {name:'strawberry-banana-pancake', price:22000}
+        ]
+    },
+    {
+        catergory:'pastries',
+        items:[
+            {name:'plain-croissant',price:9000},
+            {name:'almond-croissant',price:11000},
+            {name:'choccolate-twist',price:11000},
+            {name:'cinnamon-croissant',price:11000},
+            {name:'chicken-pie',price:10000},
+            {name:'beef-samosas',price:8000},
+            {name:'chicken-samosas',price:8000},
+            {name:'vegetable-samosas',price:8000},
+            {name:'chicken-spring-rolls',price:9000},
+            {name:'vegetable-spring-rolls',price:8000}
+        ]
+    },
+    {
+        catergory:'extras',
+        items:[
+            {name:'pair-of-sausages',price:8000},
+            {name:'home-fires',price:9000},
+            {name:'fruit-bowl',price:5000},
+            {name:'fried-plantain',price:10000},
+            {name:'toast',price:4000}
+        ]
+    },
+    {
+        catergory:'amazing-muffins',
+        items:[
+            {name:'banana-muffin',price:8500},
+            {name:'chocolate-chip-muffin',price:85000},
+            {name:'vanilla-muffin',price:8500},
+            {name:'chocolate-muffin',price:8500}
+        ]
+    },
+    {
+        catergory:'designer-omelettes',
+        items:[
+            {name:'chicken-fajita-omelette',price:21500},
+            {name:'spinach-and-mushroom-omelette',price:21500},
+            {name:'spanish-omelette',price:21500}
+        ]
+    },
+    {
+catergory:'fruitful-mornings',
+items:[
+    {name:'fruit-salad', price:16500},
+    {name:'tropical-breakfast',price:22000}
+]
+    }
+]
+    

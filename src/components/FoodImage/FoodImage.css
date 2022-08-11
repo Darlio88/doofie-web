@@ -1,0 +1,26 @@
+
+.imageContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    cursor:pointer;
+    height: max-content;
+    width: max-content;
+}
+.imagePosterContainer{
+    border-radius: 0.8rem;
+    overflow: hidden;
+    height: max-content;
+    width: max-content;
+    box-shadow: 0 9px 8px 0 #333333, 0 8px 4px 0 #333333;
+    }
+    
+.imagePoster{
+    height: 180px;
+    width: 240px;
+}
+.imagePosterName{
+    text-transform:Uppercase;
+    color:#000814;
+}

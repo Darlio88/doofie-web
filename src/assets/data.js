@@ -1,0 +1,61 @@
+
+
+export const catergories ={
+  'big-on-breakfast': [
+    'breakfast-combos',
+    'ranger-breakfast',
+   'wonderful-waffles',
+   'fluffy-pancakes',
+   'pastries',
+   'extras',
+   'amazing-muffins',
+    'designer-omelettes',
+    'fruitful-mornings'
+  ],
+  'generous-big-meals':[
+   'big-meal-combos',
+'starters-and-appetizers',
+'bits-bites',
+'soups',
+'salads',
+'sandwitches',
+'burgers',
+'chicken',
+'fish',
+'beef',
+'curries',
+'pasta',
+'mex-fix',
+'pizza',
+'kiddie-meals',
+'extras'
+  ],
+  'perfected-drinks':[
+    'dawa-teas',
+'kiddie-drinks',
+'creamy-milkshakes',
+'real-fruit-smoothies',
+'fruit-boosters',
+'specialty-juices',
+'refreshing-iced-teas',
+'handcrafted-lemonades',
+'coladas',
+'nojitos',
+'chocolate-tea',
+'iced-mocha',
+'mocha',
+'iced-latte',
+'latte',
+'cappuccino',
+'coffee'
+  ],
+  'decadent-desserts':[
+    'amazing-muffins',
+'pastries',
+'fruitful-delight',
+'sundaes',
+'ala-mode',
+'premium-ice-cream',
+'cake-slices'
+  ]
+}

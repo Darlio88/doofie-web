@@ -1,13 +1,15 @@
 import React from 'react'
 import './FoodImage.css'
 import { IKImage, IKContext, IKUpload } from 'imagekitio-react';
-
+import { Link } from 'react-router-dom';
 
 const FoodImage = ({imageCardData}) => {
   return (
       imageCardData[0].map((imageData, index) => {
         return (
-          <div className="imageContainer" key={index}>
+          <Link to={`/catergory/${imageCardData[1]}_${imageData}`} key={index}>
+         
+          <div className="imageContainer" >
             <div className='imagePosterContainer'>
             <IKImage 
           path={`/${imageData}.jpg`}
@@ -23,6 +25,7 @@ const FoodImage = ({imageCardData}) => {
           
             <h3 className='imagePosterName'>{imageData.split('-').join(' ')}</h3>
           </div>
+          </Link>
         )
       })
    

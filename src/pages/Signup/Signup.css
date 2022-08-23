@@ -1,0 +1,21 @@
+.loginContainer{
+    display:flex;
+     flex-direction:column; 
+     justify-content:center;
+     align-items:center;
+      height:100vh;
+       width:100vw;
+}
+.inputContainer{
+    display:flex;
+    flex-direction:column; 
+     align-items:center;
+     width:300px;
+     margin: 8px 0;
+}
+.input{
+    padding:8px 12px;
+     border-radius:4px;
+     width:100%;
+     border-color:red;
+}

@@ -1,0 +1,23 @@
+.loginContainer{
+    display:flex;
+     flex-direction:column; 
+     justify-content:center;
+     align-items:center;
+      height:100vh;
+       width:100vw;
+       -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+box-shadow: 5px 5px 15px 5px #000000;
+}
+.inputContainer{
+    display:flex;
+    flex-direction:column; 
+     align-items:center;
+     width:300px;
+     margin: 8px 0;
+}
+.input{
+    padding:8px 12px;
+     border-radius:4px;
+     width:100%;
+     border-color:red;
+}

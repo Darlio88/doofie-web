@@ -15,10 +15,10 @@ export const catergories ={
   'generous-big-meals':[
    'big-meal-combos',
 'starters-and-appetizers',
-'bits-bites',
+'bits-and-bites',
 'soups',
 'salads',
-'sandwitches',
+'sandwiches',
 'burgers',
 'chicken',
 'fish',

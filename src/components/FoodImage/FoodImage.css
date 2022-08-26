@@ -8,7 +8,7 @@
     height: max-content;
     width: max-content;
 }
-.imagePosterContainer{
+.imagePostContainer{
     border-radius: 0.8rem;
     overflow: hidden;
     height: max-content;
@@ -16,11 +16,24 @@
     box-shadow: 0 9px 8px 0 #333333, 0 8px 4px 0 #333333;
     }
     
-.imagePoster{
+.imagePost{
     height: 180px;
     width: 240px;
 }
-.imagePosterName{
+.imagePostName{
     text-transform:Uppercase;
     color:#000814;
+}
+
+@media(max-width:450px){
+    .imagePostContainer{
+        height: 240px;
+        width: 300px;
+    }   
+}
+@media(max-width:850px){
+    .imagePostContainer{
+        height: 220px;
+        width: 290px;
+    }   
 }

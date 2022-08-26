@@ -18,3 +18,16 @@
     font-weight: bold;
     text-transform: capitalize;
 }
+
+@media(max-width:450px){
+    .foodGrid{
+        display:block;
+    }
+}
+
+@media(max-width:850px){
+    .foodGrid{
+        grid-template-columns: 1fr 1fr;
+        padding: 0 1.5rem;
+    }
+}

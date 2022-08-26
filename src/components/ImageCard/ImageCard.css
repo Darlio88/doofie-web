@@ -1,5 +1,6 @@
 
 .imageContainer{
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,4 +24,17 @@
 .imagePosterName{
     text-transform:Uppercase;
     color:#000814;
+}
+@media(max-width:450px){
+    .imagePosterContainer{
+        height: 240px;
+        width: 300px;
+    } 
+}
+
+@media(max-width:850px){
+    .imagePosterContainer{
+        height: 220px;
+        width: 290px;
+    } 
 }

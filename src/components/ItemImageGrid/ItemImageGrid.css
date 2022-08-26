@@ -1,11 +1,11 @@
-.foodGridWrapper{
+.foodItemGridWrapper{
     display:flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 
 }
-.foodGrid{
+.foodItemGrid{
     margin-top:1rem;
     padding: 1rem;
     margin-left: 1rem;
@@ -17,4 +17,15 @@
     color: #000814;
     font-weight: bold;
     text-transform: capitalize;
+}
+@media(max-width:450px){
+    .foodItemGrid{
+        display:block;
+    }
+}
+
+@media(max-width:850px){
+    .foodItemGrid{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 }

@@ -2,7 +2,7 @@
     padding: 12px 28px;
     font-weight: bold;
     font-size: 16px;
-    background-color:red;
+    background-color:#588157;
     border: none;
     color:white;
     height: fit-content;
@@ -13,8 +13,8 @@
 }
 .btn:hover {
     box-shadow: 0 14px 18px 0 #333333, 0 17px 50px 0 #333333;
-    border: 1px red solid;
-    color: red;
+    border: 1px #588157 solid;
+    color: #588157;
     background-color:white;
     cursor: pointer;
     }

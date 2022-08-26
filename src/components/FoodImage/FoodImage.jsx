@@ -10,20 +10,20 @@ const FoodImage = ({imageCardData}) => {
           <Link to={`/catergory/${imageCardData[1]}_${imageData}`} key={index}>
          
           <div className="imageContainer" >
-            <div className='imagePosterContainer'>
+            <div className='imagePostContainer'>
             <IKImage 
           path={`/${imageData}.jpg`}
           urlEndpoint={`https://ik.imagekit.io/x761p7oyp/doofie/${imageCardData[1]}`}
           transformation={
             [{    
-          "height":"180",    
-          "width":"240" 
+              "height":"300",    
+              "width":"400" 
           }]
   }
   />
             </div>
           
-            <h3 className='imagePosterName'>{imageData.split('-').join(' ')}</h3>
+            <h3 className='imagePostName'>{imageData.split('-').join(' ')}</h3>
           </div>
           </Link>
         )

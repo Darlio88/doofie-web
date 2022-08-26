@@ -4,9 +4,9 @@ import ItemImage from '../ItemImage/ItemImage'
 const ItemImageGrid = ({imageCardData}) => {
 
   return (
-    <div className='foodGridWrapper'>
+    <div className='foodItemGridWrapper'>
         <h1 className='catergoryHeader'>{imageCardData[0].split('-').join(' ')}</h1>
-        <div className="foodGrid">
+        <div className="foodItemGrid">
         <ItemImage imageCardData={imageCardData} />
         </div>
     </div>

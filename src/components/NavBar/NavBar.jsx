@@ -14,7 +14,7 @@ const NavBar = () => {
       <h3 className='navLink'>Menu</h3>
       <h3 className='navLink'>Featured Products</h3>
       <h3 className='navLink'>Deals</h3>
-      <TiShoppingCart size='24px' color='#84a98c' />
+      <TiShoppingCart className='navIcon' size='24px' color='#84a98c' />
       <Link to='/login'>
       <img src={user} alt='user' style={{height:'32px', width:'32px'}} />
       </Link>

@@ -36,7 +36,7 @@ const BottomBar = () => {
       </div>
     </div>
     <div className='bottomBarBottom'>
-      <p className='bottomBarUpperHeader'>
+      <p className='bottomBarUpperHeader' style={{paddingRight:'10px'}}>
       We're commited to great food, great coffee, great service, an experience that will make your time with us fabulous. All visuals are serving suggestions only.
   Prices are quoted in Uganda Shillings and inclusive of VAT.
       </p>

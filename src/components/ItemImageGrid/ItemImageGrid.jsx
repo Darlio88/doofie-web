@@ -1,8 +1,10 @@
-import React from 'react'
+import React,{useState, useEffect} from 'react'
 import './ItemImageGrid.css'
 import ItemImage from '../ItemImage/ItemImage'
-const ItemImageGrid = ({imageCardData}) => {
 
+import Button from '../Button/Button'
+const ItemImageGrid = ({imageCardData}) => {
+  
   return (
     <div className='foodItemGridWrapper'>
         <h1 className='catergoryHeader'>{imageCardData[0].split('-').join(' ')}</h1>

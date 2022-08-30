@@ -29,3 +29,10 @@
       color: aliceblue;
       z-index: 10;
     }
+@media(max-width: 850px){
+   .welcomePageContent{
+       display:block;
+}
+    .welcomePageTitle{
+        font-weight:32px;
+    }

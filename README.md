@@ -1,70 +1,26 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# doofie-web
+This is a restuarnt application containing the menus, this is a clone of cafe javas
 
-## Available Scripts
 
-In the project directory, you can run:
+## Build
+[live preview](http://doofie-web-vercel.vercel.app/)
 
-### `npm start`
+## screenshots
+![screenshot](https://ik.imagekit.io/x761p7oyp/doofie-web/Screenshot__203__et-1izdQb.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663528941686)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![screenshot](https://ik.imagekit.io/x761p7oyp/doofie-web/Screenshot__204__s_amSu6ya.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663528936274)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![screenshot](https://ik.imagekit.io/x761p7oyp/doofie-web/screencapture-localhost-3000-catergories-perfected-drinks-2022-08-02-20_00_52_A3_L4ezTJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663528618240)
 
-### `npm test`
+![screenshot](https://ik.imagekit.io/x761p7oyp/doofie-web/screencapture-localhost-3000-home-2022-08-02-20_02_37_H1-sCNm81.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663528614650)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![screenshot](https://ik.imagekit.io/x761p7oyp/doofie-web/screencapture-localhost-3000-catergories-big-on-breakfast-2022-08-02-20_01_41_m9TMVNh1Y.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663528610893)
 
-### `npm run build`
+![screenshot](https://ik.imagekit.io/x761p7oyp/doofie-web/Screenshot__211__F0MvCYPiup.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663528926798)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![screenshot](https://ik.imagekit.io/x761p7oyp/doofie-web/Screenshot__210__gunMY7wZ_n.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663528926142)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![screenshot](https://ik.imagekit.io/x761p7oyp/doofie-web/Screenshot__206__aww_OocPq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663528934584)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![screenshot](https://ik.imagekit.io/x761p7oyp/doofie-web/Screenshot__205__1_dk1-DKdB.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663528926873)
